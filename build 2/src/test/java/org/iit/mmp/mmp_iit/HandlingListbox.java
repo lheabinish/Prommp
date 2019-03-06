@@ -21,12 +21,9 @@ public class HandlingListbox {
 		{
 			list.get(i).click();
 			System.out.println(list.get(i).getText());
-		}
 		
-//		Frames -> with in the html page
-//		window-> a new browser
-//		alert->popupwith out any properties..
 
 		
 	}
+}
 }
